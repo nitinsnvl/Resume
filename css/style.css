@@ -1,0 +1,168 @@
+body{
+background-color: #C0C0C0;
+padding: 2% 4%;
+}
+
+.navbar{
+  padding: 2% 4%;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+  color: 	#000000;
+}
+
+.nav-item{
+  padding: 0 18px;
+  font-family: "Montserrat";
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+.row{
+padding: 7% 16%;
+}
+
+.title-image{
+  width: 100%;
+}
+
+h1{
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+h3{
+  font-family: "Montserrat-Bold";
+  text-align: left;
+  color: 	#000000;
+}
+
+h4{
+  font-family: "Montserrat-Bold";
+  text-align: left;
+  color: #000000;
+}
+
+h5{
+  font-family: "Montserrat-Bold";
+  text-align: left;
+  color: #000000;
+}
+
+p{
+  font-family: "Montserrat-Bold";
+  text-align: left;
+  line-height: 1.5;
+  color: #423F3E;
+}
+li{
+font-family: "Montserrat-Bold";
+  color: #423F3E;
+}
+
+form{
+  font-family: "Montserrat-Bold";
+}
+.a-tag{
+  color: #000000;
+}
+
+.about-us{
+  font-size: 3rem;
+  line-height: 1.5;
+  color: 	#000000;
+  text-align: left;
+}
+
+.click-button {
+  margin: 5px 1px;
+  font-family: "Montserrat";
+  color: #000000;
+  padding: 40px 20px;
+}
+.footer-colmn{
+    font-family: "Montserrat-Bold";
+    text-align: left;
+    color: #000000;
+  }
+
+.resume{
+  font-family: "Montserrat-Bold";
+  font-size: 4.5rem;
+  line-height: 1.5;
+  color: 	#000000;
+  text-align: left;
+}
+.title-Resume{
+  font-size: 3rem;
+  color: 	#000000;
+  padding: 5% 16% 0;
+}
+
+.skill-table{
+  text-align: left;
+  width: 100%
+}
+
+.title-project{
+  font-size: 3rem;
+  color: 	#000000;
+  padding: 5% 16% 0;
+}
+
+.title-contact{
+  font-size: 3rem;
+  color: 	#000000;
+  padding: 5% 16% 0;
+}
+.sub-title{
+    padding: 0 16% 0;
+}
+
+.form-control{
+  background-color: #C0C0C0;
+  border: 1px solid black;
+}
+
+.submit-button{
+  margin: 5px 1px;
+  font-family: "Montserrat";
+  color: #000000;
+  padding: 10px 60px;
+  text-align: center;
+}
+.white-section{
+  text-align: center;
+}
+.Work-Experince{
+  margin: 10px 0;
+}
+.social-icon{
+  margin: 20px 10px;
+  color: #000000;
+}
+.footer-div{
+  font-family: "Montserrat";
+  text-align: center;
+  color: #423F3E;
+}
+
+@media (max-width:1028px) {
+  .about-us{
+    text-align: left;
+  }
+.title-image{
+  position: static;
+}
+.click-button{
+    padding: 20px 3px;
+}
+.submit-button{
+  padding: 10px 30px;
+}
+}
